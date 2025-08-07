@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://baristahaven.tech/sitemap.xml
